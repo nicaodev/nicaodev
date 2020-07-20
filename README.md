@@ -24,7 +24,7 @@ Perfil analítico e ético. Desenvolvedor .Net Framework com conhecimento interm
 - [x] SQL Server | MySQL | T-SQL
 - [x] Scrum | DevOps
 - [x] Linux | Windows
-- [x] Estatísica | SAS | Machine Learning 
+- [x] Estatística | SAS | Machine Learning 
 
 
 ### Certificação
