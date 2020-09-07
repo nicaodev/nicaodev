@@ -8,7 +8,8 @@
 
 ## Olá 👋
 
-Perfil analítico e ético. Desenvolvedor .Net Framework com conhecimento intermediário na implementação de sistemas em C#(Back-end e Front-end) utilizando Entity Framework, Angular 5, TypeScript, T-SQL, MS SQL Server, Git, metodologia ágil Scrum e DevOps. Interação em equipe e inglês intermediário. E me especializando para poder dar insights a empresas para tomadas de decisões por meio de dados utilizando modelos preditivos, análises estatísticas, machine learning e outros conhecimentos multidisciplinares agregados com Ciência de dados.
+Perfil analítico, colaborativo e ético. Experiência com desenvolvimento Full-Stack em sistemas web utilizando .Net Framework e/ou .Net Core, Entity Framework, Angular 5+, TypeScript, T-SQL, MS SQL Server, Git, metodologias ágeis e DevOps. Inglês intermediário. 
+Pós graduado em Ciência de dados experiência projetos propostos em modelagem, limpeza de dados,  análises estatísticas e geração de Dashboards e aplicação de algoritmos de Machine Learning para poder dar insights para tomadas de decisões orientado a dados.
 
 
 ### Formações
