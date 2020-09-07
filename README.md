@@ -9,7 +9,7 @@
 ## Olá 👋
 
 Perfil analítico, colaborativo e ético. Experiência com desenvolvimento Full-Stack em sistemas web utilizando .Net Framework e/ou .Net Core, Entity Framework, Angular 5+, TypeScript, T-SQL, MS SQL Server, Git, metodologias ágeis e DevOps. Inglês intermediário. 
-Pós graduado em Ciência de dados experiência projetos propostos em modelagem, limpeza de dados,  análises estatísticas e geração de Dashboards e aplicação de algoritmos de Machine Learning para poder dar insights para tomadas de decisões orientado a dados.
+Pós-graduado em Ciência de dados experiência projetos propostos em modelagem, limpeza de dados,  análises estatísticas e geração de Dashboards e aplicação de algoritmos de Machine Learning para poder dar insights para tomadas de decisões orientado a dados.
 
 
 ### Formações
