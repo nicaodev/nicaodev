@@ -14,16 +14,13 @@ Perfil analítico, colaborativo e ético. Experiência com desenvolvimento Full-
 - 🎓 Pós graduado em Ciência de Dados - IESB/2020.
 
 ## Principais Habilidades
-- [x] C# | .Net | .NetCore | Python | R 
-- [x] RabbitMQ 
-- [x] Jenkins | Sonar | Git
+- [x] C# | .Net Framework | .Net Core | Python 
+- [x] RabbitMQ | Docker
+- [x] Jenkins | SonarQube | Git
 - [x] Restful | SOAP
-- [x] Angular | TypeScript | NodeJS 
-- [x] HTML | CSS
-- [x] SQL Server | MySQL | T-SQL
+- [x] Angular 12+ | TypeScript 
+- [x] SQL Server | MySQL
 - [x] Scrum | DevOps
-- [x] Linux | Windows
-- [x] Estatística | SAS | Machine Learning 
 
 
 ### Certificação
