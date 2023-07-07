@@ -19,7 +19,7 @@ Perfil analítico, colaborativo e ético. Experiência com desenvolvimento Full-
 - [x] Jenkins | SonarQube | Git
 - [x] Restful | SOAP
 - [x] Angular 12+ | TypeScript 
-- [x] SQL Server | MySQL
+- [x] SQL Server | MySQL | MongoDb
 - [x] Scrum | DevOps
 
 
